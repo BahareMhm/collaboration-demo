@@ -18,4 +18,5 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## New Feature
 
-This feature adds a new functionality to the project.
+This feature provides additional functionality for the project
+and helps contributors understand how the project can be extended.
