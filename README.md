@@ -15,3 +15,7 @@ This project is used to practice Git and GitHub collaboration workflows.
 4. Submit a pull request.
 5. Wait for review before merging.
 6. do squash when its needed
+
+## New Feature
+
+This feature adds a new functionality to the project.
